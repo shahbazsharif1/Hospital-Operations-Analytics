@@ -106,6 +106,16 @@ To reproduce from scratch: Kernel \> Restart and Run All.
 
 ------------------------------------------------------------------------
 
+## Tableau Dashboard
+
+Interactive dashboard built in Tableau Desktop covering all 3 KPIs
+with RAG status, benchmark lines, seasonal analysis, and year filter.
+
+Live Dashboard: [[View on Tableau Public](https://public.tableau.com/views/Hospityal_KPI_Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](YOUR LINK HERE)
+
+File: Hospital_KPI_Dashboard.twbx
+Preview: outputs/tableau_dashboard.png
+
 ## Author
 
 Shahbaz Sharif \| Data Analyst \| [Portfolio](https://shahbazsharif1.github.io/shahbaz-portfolio/)
